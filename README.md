@@ -10,8 +10,7 @@ A modern and responsive Admin Dashboard built with **React**. This project inclu
 
 ## 🔗 Live Demo
 
-👉 [View Live Project](https://your-username.github.io/react-admin-dashboard/)  
-> *(Replace with your deployed link)*
+👉 https://tiwarisristy.github.io/
 
 ---
 
